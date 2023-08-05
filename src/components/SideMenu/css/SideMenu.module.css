@@ -1,0 +1,23 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+  padding: 16px 32px 16px 32px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  justify-content: space-between;
+  min-width: 200px;
+}
+.itemList {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.footer {
+  font-size: 16px;
+  font-size: 600;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-bottom: 16px;
+}

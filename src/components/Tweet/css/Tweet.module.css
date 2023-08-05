@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  color: #fff;
+  padding: 12px;
+  gap: 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.container + .container {
+  border-top: solid 1px #535353;
+}
+.info {
+  font-size: inherit;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  justify-content: left;
+  align-items: center;
+}
+.user {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+}
+.name {
+  font-weight: bold;
+}
+.tag {
+  color: #535353;
+}
+.date {
+  color: #535353;
+}
+.tweet {
+  font-size: inherit;
+  word-break: break-all;
+}
+.commentsCounter {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  color: #535353;
+  align-items: center;
+}

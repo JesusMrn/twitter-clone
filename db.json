@@ -1,0 +1,242 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "content": "The Biden administration is debating whether to designate Travis King, the US Army soldier who crossed into North Korea last month, as a prisoner of war, defense officials told CNN",
+      "user": {
+        "username": "CNN",
+        "tag": "CNN"
+      },
+      "date": "1659610944",
+      "comments": []
+    },
+    {
+      "content": "Muy contento con las vueltas en la crono , y con tiempos muy apretados salimos P8 mañana . 4 décimas de la pole. Será una carrera apretada ! A por ella 👏🏻👏🏻👏🏻💪 @astonmartinf1 #f1 #budapest #hungary",
+      "user": {
+        "username": "Fernando Alonso",
+        "tag": "alo_oficial"
+      },
+      "date": "1688468544",
+      "comments": [],
+      "id": 2
+    },
+    {
+      "content": "A menos de 500 días de que concluya su Gobierno, el presidente de México ha lanzado una nueva propuesta para atajar la falta de medicamentos en hospitales y centros de salud públicos: la creación de una ‘superfarmacia’ con todas las medicinas del mundo",
+      "user": {
+        "username": "EL PAIS",
+        "tag": "el_pais"
+      },
+      "date": "1691110944",
+      "comments": [],
+      "id": 3
+    },
+    {
+      "content": "The Supreme Court has denied a request from the city of Tulsa, Oklahoma, to freeze a lower court opinion that could prevent Tulsa from enforcing municipal laws – such as speeding tickets – against Native Americans",
+      "user": {
+        "username": "CNN",
+        "tag": "CNN"
+      },
+      "date": "1676376144",
+      "comments": [],
+      "id": 4
+    },
+    {
+      "content": "ALWAYS. KEEP. DREAMING. 💫 \n @carlosalcaraz is the 2023 #Wimbledon CHAMPION 🏆",
+      "user": {
+        "username": "ATP Tour",
+        "tag": "atptour"
+      },
+      "date": 1691143272,
+      "comments": [],
+      "id": 5
+    },
+    {
+      "content": "Just testing this",
+      "user": {
+        "username": "Jesus",
+        "tag": "mrn"
+      },
+      "date": 1691145551,
+      "comments": [],
+      "id": 6
+    },
+    {
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec neque non diam aliquam placerat a nec augue. Etiam semper erat in neque facilisis fermentum. Integer dignissim dictum quam id porta.",
+      "user": {
+        "username": "ASD",
+        "tag": "fgh"
+      },
+      "date": 1691145571,
+      "comments": [],
+      "id": 7
+    },
+    {
+      "content": "Nullam quam metus, auctor at felis a, lacinia sagittis ipsum.",
+      "user": {
+        "username": "QWERTY",
+        "tag": "tuculu"
+      },
+      "date": 1691145756,
+      "comments": [],
+      "id": 8
+    },
+    {
+      "content": "Generic tweet",
+      "user": {
+        "username": "Jesus",
+        "tag": "mrn"
+      },
+      "date": 1691146925,
+      "comments": [],
+      "id": 9
+    },
+    {
+      "content": "Top 5 in the race and valuable points for the team. It was a weekend with unpredictable weather and some ups and downs, but our car performed well in the race and we came away with a good result. See you next year, Spa! 👍 @astonmartinf1 #f1 #belgium",
+      "user": {
+        "username": "Fernando Alonso",
+        "tag": "alo_oficial"
+      },
+      "date": 1691147049,
+      "comments": [],
+      "id": 10
+    },
+    {
+      "content": "A casita que hace mucho frio",
+      "user": {
+        "username": "Pedro Sánchez",
+        "tag": "sanchezcastejon"
+      },
+      "date": 1691147119,
+      "comments": [],
+      "id": 11
+    },
+    {
+      "content": "We are back. #f1",
+      "user": {
+        "username": "Fernando Alonso",
+        "tag": "alo_oficial"
+      },
+      "date": 1691176987,
+      "comments": [],
+      "id": 12
+    },
+    {
+      "content": "Comienza a temblar Freezer, porque estoy a punto de ser el Super Saiyan que tanto has temido.",
+      "user": {
+        "username": "Goku",
+        "tag": "goku"
+      },
+      "date": 1691177091,
+      "comments": [],
+      "id": 13
+    },
+    {
+      "content": "Ser malos! Buenas noches colegas",
+      "user": {
+        "username": "Pedro Sánchez",
+        "tag": "sanchezcastejon"
+      },
+      "date": 1691177109,
+      "comments": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "id": 14
+    },
+    {
+      "content": "Con mis colegas en el restaurante luna rosa, comiendo una pizza cojonuda",
+      "user": {
+        "username": "Pedro Sánchez",
+        "tag": "sanchezcastejon"
+      },
+      "date": 1691178513,
+      "comment": 14,
+      "comments": [],
+      "id": 15
+    },
+    {
+      "content": "second",
+      "user": {
+        "username": "Goku",
+        "tag": "goku"
+      },
+      "date": 1691178632,
+      "comment": 14,
+      "comments": [],
+      "id": 16
+    },
+    {
+      "content": "third",
+      "user": {
+        "username": "Vegetta",
+        "tag": "vegetta"
+      },
+      "date": 1691178735,
+      "comment": 14,
+      "comments": [],
+      "id": 17
+    },
+    {
+      "content": "Last one",
+      "user": {
+        "username": "Trunks",
+        "tag": "xXTrunksXx"
+      },
+      "date": 1691178773,
+      "comment": 14,
+      "comments": [
+        19
+      ],
+      "id": 18
+    },
+    {
+      "content": "Vida antes que muerte. \nFuerza antes que debilidad. \nViaje antes que destino",
+      "user": {
+        "username": "The Way Of Kings",
+        "tag": "the_way_of_kings"
+      },
+      "date": 1691184743,
+      "comment": 18,
+      "comments": [
+        21
+      ],
+      "id": 19
+    },
+    {
+      "content": "Hola!",
+      "user": {
+        "username": "Jesus",
+        "tag": "mrn"
+      },
+      "date": 1691184773,
+      "comments": [
+        22
+      ],
+      "id": 20
+    },
+    {
+      "content": "U sure?",
+      "user": {
+        "username": "Jesus",
+        "tag": "mrn"
+      },
+      "date": 1691184787,
+      "comment": 19,
+      "comments": [],
+      "id": 21
+    },
+    {
+      "content": "Saludos!",
+      "user": {
+        "username": "Goku",
+        "tag": "goku"
+      },
+      "date": 1691223652,
+      "comment": 20,
+      "comments": [],
+      "id": 22
+    }
+  ]
+}

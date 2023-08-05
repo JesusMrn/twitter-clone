@@ -1,0 +1,31 @@
+/* PLACEHOLDER */
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #535353;
+  opacity: 1; /* Firefox */
+}
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #535353;
+}
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #535353;
+}
+.input:focus {
+  outline: none !important;
+  border: 1px solid #359bf0;
+}
+.input:disabled {
+  opacity: 0.5;
+}
+.input {
+  background-color: #272727;
+  color: #fff;
+  width: 100%;
+  border: solid 1px #535353;
+  border-radius: 12px;
+  padding: 12px;
+  box-sizing: border-box;
+  font-size: 16px;
+}

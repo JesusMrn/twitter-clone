@@ -1,0 +1,29 @@
+.loginButton {
+  margin-top: 12px;
+}
+.title {
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 32px;
+}
+.group {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  min-width: 35%;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  flex: 1;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 220px;
+}
